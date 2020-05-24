@@ -1,7 +1,7 @@
 Prototipo para a seleção do LABTECS
 ======
 
-Autor: Matheus Gonçalves Marques
+Feito por Matheus Gonçalves Marques
 
 
 ## Questões

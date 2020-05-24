@@ -12,7 +12,7 @@ Para a funcionalidade, foram usados Vue e Mongoose, enquanto que para o design f
 ## Requisitos
 
 O aplicativo possui um requisito:
-1. A API (p1_back) deve estar em funcionamento na máquina local (para instruções sobre, [Clique aqui](../p1_back/README.md))
+1. A API (p1_back) deve estar em funcionamento na máquina local (para instruções sobre, [clique aqui](../p1_back/README.md))
 
 
 ## Setup
@@ -23,6 +23,8 @@ npm install
 
 npm run serve
 ```
+
+Depois, acesse o endereço 'localhost:8080'.
 
 ### Notas
 

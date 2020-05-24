@@ -7,9 +7,10 @@ O backend utiliza como framework o Express.js, junto ao Mongoose (controle para 
 ## Requisitos
 
 A API possui dois requisitos:
-1. É necessário ter o MongoDB rodando em sua máquina local.
+1. MongoDB
 2. Node
 
+O MongoDB deve estar rodando durante a execução da API.
 
 ## Setup
 
@@ -34,4 +35,6 @@ node server.js
 
 ### Notas
 
-À adicionar
+O backend possui a validação dos dados (os 5 atributos entre 1 a 10)
+Possui rotas para remover/editar/buscar/ler
+ 
