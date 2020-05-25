@@ -20,7 +20,7 @@ Para questões de facilitar o uso, e por ser um protótipo local, o sistema não
 ```
 mongod --noauth --dbpath caminho/para/pasta/do/db
 ```
-O caminho pode ser qualquer um. Isto foi feito para não haver resquícios do banco de dados; Pois, após o teste ser realizado, basta deletar a pasta escolhida.
+O caminho pode ser qualquer caminho já existente em sua máquina (exemplo: ~/Documents). Isto foi feito para não haver resquícios do banco de dados; Pois, após o teste ser realizado, basta deletar a pasta escolhida.
 
 ### Rodando a API
 
@@ -37,4 +37,3 @@ node server.js
 
 O backend possui a validação dos dados (os 5 atributos entre 1 a 10)
 Possui rotas para remover/editar/buscar/ler
- 

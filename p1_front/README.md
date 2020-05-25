@@ -28,4 +28,4 @@ Depois, acesse o endereço 'localhost:8080'.
 
 ### Notas
 
-À adicionar
+Durante a execução, portanto, terão três processos rodando: A API, o MongoDB e o FrontEnd!
