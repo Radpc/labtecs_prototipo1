@@ -24,6 +24,6 @@ Você deve habilitar a instalação por apk em seu celular, e em seguida, instal
 
 ### Notas
 
-<img src="screenshots/myShot2.png>
+<img src="screenshots/myShot2.png">
 
 Ele foi feito para funcionar mesmo se rotacionar a tela
