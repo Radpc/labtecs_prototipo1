@@ -30,7 +30,3 @@ E para completar, no Backend eu acredito que o Express seja o melhor framework, 
 
 
 As outras duas questões se referem aos projetos que se encontram em p1_back/p1_front e p1_apk.
-<<<<<<< HEAD
-
-=======
->>>>>>> c599e2354d295206d5bcc6fe8b7d39da015d6a35
